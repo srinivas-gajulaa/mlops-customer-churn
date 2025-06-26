@@ -95,12 +95,3 @@ uvicorn src.api:app --reload
 
 ---
 
-## ✅ Pro Tip
-
-Yes, absolutely put this project on GitHub!
-
-* It proves hands-on MLOps understanding
-* Demonstrates MLflow integration and experiment reproducibility
-* Highlights ability to productionize and track models like in real teams
-
-Let me know if you'd like to containerize this or set up a CI/CD flow next!
